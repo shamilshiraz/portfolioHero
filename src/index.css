@@ -1,0 +1,16 @@
+body{
+  margin: 0px;
+  background-color: rgb(94, 93, 93);
+}
+
+@font-face {
+  font-family: robotic;
+  src: url('./Fonts/AldotheApache.ttf');
+}
+@font-face {
+  font-family: pixel;
+  src: url('./Fonts/Pixel Digivolve.otf');
+}
+body::-webkit-scrollbar{
+  display: none;
+}
